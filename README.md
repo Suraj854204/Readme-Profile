@@ -1,22 +1,21 @@
 <div align="center">
 
-<!-- Animated wave header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0aa6c2&height=200&section=header&text=Suraj%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20AI%20Applications%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=0AA6C2&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems+%F0%9F%9A%80;AI-powered+developer+tools+%F0%9F%A4%96;Distributed+Systems+%26+System+Design+%E2%9A%A1;1800%2B+DSA+Problems+Solved+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0AA6C2&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;AI-powered+developer+tools+%F0%9F%A4%96;Distributed+Systems+%26+System+Design+%E2%9A%A1;Top+5+Student+in+College+%F0%9F%8E%93;1800%2B+DSA+Problems+Solved+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Suraj854204&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Suraj854204?label=Followers&style=for-the-badge&color=0aa6c2" />
   <img src="https://img.shields.io/badge/DSA%20Solved-1800%2B-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/College%20Rank-Top%205-gold?style=for-the-badge" />
 </p>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/aditya4rs/aditya4rs/main/svg%20file/wave.gif" width="100%">
+<br>
 
 ## 🚀 About Me
 
@@ -26,41 +25,66 @@ const suraj = {
     focus: ["AI Applications", "Distributed Systems", "Backend Engineering"],
     currentlyBuilding: "AI-powered developer tools with FastAPI, Gemini & RAG",
     currentlyLearning: ["System Design", "Cloud Architecture"],
-    funFact: "Solved 1800+ DSA problems across platforms 🔥"
+    achievements: [
+        "🎓 Ranked Top 5 in College",
+        "🔥 1800+ DSA problems solved across platforms"
+    ],
+    funFact: "I debug faster than I make chai ☕"
 };
 ```
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
+
+## 🎓 Academic Achievement
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+### 🏅 Top 5 Student in College
+Ranked among the **top 5 students** in my college for academic performance and technical excellence.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 ## 🏆 Competitive Programming
 
 <div align="center">
 
-| Platform | Problems Solved | Badge |
+| Platform | Stat | Badge |
 |:---:|:---:|:---:|
-| 🟡 **LeetCode** | **800+** | ![LeetCode](https://img.shields.io/badge/Solved-800%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
-| 🟢 **GeeksForGeeks** | **500+** | ![GFG](https://img.shields.io/badge/Solved-500%2B-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| 🟤 **CodeChef** | **500+** | ![CodeChef](https://img.shields.io/badge/Solved-500%2B-5B4638?style=flat-square&logo=codechef&logoColor=white) |
+| ⚫ **Codeforces** | **Rating: 800** | ![Codeforces](https://img.shields.io/badge/Rating-800-808080?style=flat-square&logo=codeforces&logoColor=white) |
+| ⭐ **CodeChef** | **2★ Coder** | ![CodeChef](https://img.shields.io/badge/Rating-2%20Star-5B4638?style=flat-square&logo=codechef&logoColor=white) |
+| 🟡 **LeetCode** | **800+ Solved** | ![LeetCode](https://img.shields.io/badge/Solved-800%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
+| 🟢 **GeeksForGeeks** | **500+ Solved** | ![GFG](https://img.shields.io/badge/Solved-500%2B-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
+| 🟤 **CodeChef Problems** | **500+ Solved** | ![CodeChef](https://img.shields.io/badge/Solved-500%2B-5B4638?style=flat-square&logo=codechef&logoColor=white) |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-## 🚀 Featured Projects
+## 💼 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🎯 Support SaaS
 AI-powered customer support platform
 
-`Next.js` `TypeScript` `Node.js` `FastAPI`
-`PostgreSQL` `Prisma` `Redis` `Kafka`
+**Stack:** `Next.js` `TypeScript` `Node.js` `FastAPI`  
+`PostgreSQL` `Prisma` `Redis` `Kafka`  
 `Socket.IO` `Gemini` `LangChain` `Qdrant` `Docker`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 AI Code Companion
 GitHub-integrated AI developer assistant
@@ -74,7 +98,7 @@ GitHub-integrated AI developer assistant
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 💼 NextHire
 AI-powered hiring platform
@@ -86,9 +110,9 @@ AI-powered hiring platform
 - 🔴 Redis
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ✨ More coming soon...
+### ✨ More Coming Soon
 Always building something new.
 
 [View all repositories →](https://github.com/Suraj854204?tab=repositories)
@@ -97,7 +121,7 @@ Always building something new.
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 ## 💻 Tech Stack
 
@@ -142,7 +166,7 @@ Always building something new.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 ## 📊 GitHub Stats
 
@@ -159,12 +183,11 @@ Always building something new.
 
 </div>
 
-<!-- Contribution snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Suraj854204/Suraj854204/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 ## 📈 Current Focus
 
@@ -178,7 +201,7 @@ Always building something new.
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 ## 🌐 Connect With Me
 
