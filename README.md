@@ -1,228 +1,128 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0aa6c2&height=200&section=header&text=Suraj%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full%20Stack%20Developer%20%7C%20AI%20Applications%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0aa6c2&height=180&section=header&text=Suraj%20Kumar%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=0AA6C2&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems+%F0%9F%9A%80;AI-powered+developer+tools+%F0%9F%A4%96;Distributed+Systems+%26+System+Design+%E2%9A%A1;Top+5+Student+in+College+%F0%9F%8E%93;1800%2B+DSA+Problems+Solved+%F0%9F%93%9A" alt="Typing SVG" />
-</a>
+**AI Applications · Distributed Systems · Backend Engineering**
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Suraj854204&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Suraj854204?label=Followers&style=for-the-badge&color=0aa6c2" />
-  <img src="https://img.shields.io/badge/DSA%20Solved-1800%2B-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/College%20Rank-Top%205-gold?style=for-the-badge" />
-</p>
+<a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://ai-code-companion-v1-web-app.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Suraj854204&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
 </div>
 
-<br>
+---
 
-## 🚀 About Me
+## About
 
-```typescript
-const suraj = {
-    role: "Backend-Focused Full Stack Developer",
-    focus: ["AI Applications", "Distributed Systems", "Backend Engineering"],
-    currentlyBuilding: "AI-powered developer tools with FastAPI, Gemini & RAG",
-    currentlyLearning: ["System Design", "Cloud Architecture"],
-    achievements: [
-        "🎓 Ranked Top 5 in College",
-        "🔥 1800+ DSA problems solved across platforms"
-    ],
-    funFact: "I debug faster than I make chai ☕"
-};
-```
+I build backend-first products that combine event-driven architecture with applied AI. My work centers on designing reliable APIs, real-time systems, and retrieval-augmented (RAG) pipelines, and shipping them as complete, containerized applications.
 
-<br>
+- 🔭 **Building:** AI-powered developer tools using FastAPI, Gemini, LangChain and RAG
+- 📚 **Learning:** System design and cloud architecture
+- 🎓 **Academics:** Ranked among the top 5 students in my college
+- 🧠 **Problem solving:** 1800+ problems solved across competitive programming platforms
+- 💬 **Open to:** Backend / Full Stack roles and internships
 
-## 🎓 Academic Achievement
+---
+
+## Featured Projects
+
+### 🎯 Support SaaS: AI-Powered Customer Support Platform
+A multi-service support platform with real-time chat, asynchronous event processing, and AI-assisted responses grounded in a knowledge base.
+
+| Layer | Technologies |
+|---|---|
+| Frontend | Next.js, TypeScript |
+| Backend | Node.js, FastAPI, Socket.IO |
+| Data & Messaging | PostgreSQL, Prisma, Redis, Kafka |
+| AI | Gemini, LangChain, Qdrant (vector search) |
+| Infra | Docker |
+
+### 🤖 AI Code Companion: GitHub-Integrated Developer Assistant
+An assistant that connects to GitHub repositories and helps developers understand and ship code with confidence.
+
+- **Repository analysis**: structure and codebase understanding
+- **AI code review**: automated review feedback
+- **Security scanner**: surfaces potential vulnerabilities
+- **Deploy readiness**: pre-release checks
+- 🔗 [Live demo](https://ai-code-companion-v1-web-app.vercel.app/)
+
+### 💼 NextHire: AI-Powered Hiring Platform
+A hiring platform that automates resume screening and candidate-to-job matching.
+
+- **Resume analysis** and **ATS-style matching**
+- **Kafka** event processing for asynchronous workflows
+- **PostgreSQL** for persistence and **Redis** for caching
+
+📂 [View all repositories →](https://github.com/Suraj854204?tab=repositories)
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · TypeScript · JavaScript · Python · SQL |
+| **Frontend** | React · Next.js · HTML5 · CSS3 · Tailwind CSS |
+| **Backend** | Node.js · Express.js · FastAPI · Socket.IO |
+| **Databases** | PostgreSQL · MongoDB · Redis · Prisma |
+| **Messaging** | Apache Kafka |
+| **AI / ML** | Gemini · LangChain · Qdrant · RAG |
+| **DevOps & Tools** | Docker · Git · GitHub |
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-### 🏅 Top 5 Student in College
-Ranked among the **top 5 students** in my college for academic performance and technical excellence.
-
-</td>
-</tr>
-</table>
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 </div>
 
-<br>
+---
 
-## 🏆 Competitive Programming
+## Competitive Programming
+
+| Platform | Achievement |
+|---|---|
+| LeetCode | 800+ problems solved |
+| GeeksForGeeks | 500+ problems solved |
+| CodeChef | 2★ coder · 500+ problems solved |
+| Codeforces | Rating 800 |
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-| Platform | Stat | Badge |
-|:---:|:---:|:---:|
-| ⚫ **Codeforces** | **Rating: 800** | ![Codeforces](https://img.shields.io/badge/Rating-800-808080?style=flat-square&logo=codeforces&logoColor=white) |
-| ⭐ **CodeChef** | **2★ Coder** | ![CodeChef](https://img.shields.io/badge/Rating-2%20Star-5B4638?style=flat-square&logo=codechef&logoColor=white) |
-| 🟡 **LeetCode** | **800+ Solved** | ![LeetCode](https://img.shields.io/badge/Solved-800%2B-FFA116?style=flat-square&logo=leetcode&logoColor=white) |
-| 🟢 **GeeksForGeeks** | **500+ Solved** | ![GFG](https://img.shields.io/badge/Solved-500%2B-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white) |
-| 🟤 **CodeChef Problems** | **500+ Solved** | ![CodeChef](https://img.shields.io/badge/Solved-500%2B-5B4638?style=flat-square&logo=codechef&logoColor=white) |
+<img src="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
-<br>
+---
 
-## 💼 Featured Projects
+## Let's Connect
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm open to backend and full-stack opportunities, internships, and open-source collaboration.
 
-### 🎯 Support SaaS
-AI-powered customer support platform
-
-**Stack:** `Next.js` `TypeScript` `Node.js` `FastAPI`  
-`PostgreSQL` `Prisma` `Redis` `Kafka`  
-`Socket.IO` `Gemini` `LangChain` `Qdrant` `Docker`
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI Code Companion
-GitHub-integrated AI developer assistant
-
-- 🔍 Repository Analysis
-- ✅ AI Code Review
-- 🛡️ Security Scanner
-- 🚀 Deploy Readiness
-- 🔗 GitHub Integration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 NextHire
-AI-powered hiring platform
-
-- 📄 Resume Analysis
-- 🎯 ATS Matching
-- ⚡ Kafka Event Processing
-- 🐘 PostgreSQL
-- 🔴 Redis
-
-</td>
-<td width="50%" valign="top">
-
-### ✨ More Coming Soon
-Always building something new.
-
-[View all repositories →](https://github.com/Suraj854204?tab=repositories)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 💻 Tech Stack
+📧 [surajkumar854000@gmail.com](mailto:surajkumar854000@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/suraj-singh-b0962830a) · 🌐 [Portfolio](https://ai-code-companion-v1-web-app.vercel.app/)
 
 <div align="center">
-
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Database**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**AI / ML**  
-![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=for-the-badge)
-
-**DevOps**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=tokyonight&hide_border=true" width="35%" />
-
-<img src="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true" width="60%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj854204&theme=tokyo-night&hide_border=true" width="90%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Suraj854204&theme=tokyonight&no-frame=true&row=1&column=7" width="90%"/>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Suraj854204/Suraj854204/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation"/>
-</div>
-
-<br>
-
-## 📈 Current Focus
-
-<div align="center">
-
-![Backend Engineering](https://img.shields.io/badge/📌-Backend%20Engineering-0e75b6?style=for-the-badge)
-![Distributed Systems](https://img.shields.io/badge/📌-Distributed%20Systems-0aa6c2?style=for-the-badge)
-![AI Applications](https://img.shields.io/badge/📌-AI%20Applications-8E75B2?style=for-the-badge)
-![System Design](https://img.shields.io/badge/📌-System%20Design-DC244C?style=for-the-badge)
-![Open Source](https://img.shields.io/badge/📌-Open%20Source-2496ED?style=for-the-badge)
-
-</div>
-
-<br>
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/suraj-singh-b0962830a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:surajkumar854000@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://ai-code-companion-v1-web-app.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! Drop a follow if you like what you see 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6c2,100:0e75b6&height=100&section=footer" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6c2,100:0e75b6&height=90&section=footer" width="100%"/>
 </div>
