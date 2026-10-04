@@ -248,25 +248,39 @@ Connect a repository and ship with confidence.
 
 ---
 
-## 📈 GitHub activity
+## 📈 GitHub analytics
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suraj854204&hide_border=true&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suraj854204&hide_border=true&theme=default" width="98%" alt="profile-details"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=Suraj854204&theme=default&hide_border=true" width="75%" alt="Contribution streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suraj854204&hide_border=true&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suraj854204&hide_border=true&theme=default" width="49%" alt="repos-per-language"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suraj854204&hide_border=true&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suraj854204&hide_border=true&theme=default" width="49%" alt="most-commit-language"/>
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj854204&bg_color=0d1117&color=0aa6c2&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj854204&hide_border=true&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Suraj854204&hide_border=true&theme=default" width="49%" alt="stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suraj854204&hide_border=true&theme=tokyonight">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Suraj854204&hide_border=true&theme=default" width="49%" alt="productive-time"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true&ring=0891b2&fire=06b6d4&currStreakLabel=0891b2">
+  <img src="https://streak-stats.demolab.com?user=Suraj854204&theme=default&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" width="75%" alt="Contribution streak"/>
+</picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj854204&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&area_color=0891b2&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
