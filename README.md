@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0b3a6e,100:0891b2&height=260&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend-Focused%20Full%20Stack%20%C2%B7%20Applied%20AI&descAlignY=64&descSize=18&descColor=67e8f9&animation=twinkling" width="100%" alt="Suraj Kumar Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b3a6e&height=190&section=header&text=Suraj%20Kumar%20Singh&fontSize=46&fontColor=f8fafc&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Backend-Focused%20Full%20Stack%20%C2%B7%20Applied%20AI&descAlignY=68&descSize=17&descColor=93c5fd" width="100%" alt="Suraj Kumar Singh banner"/>
 
-<a href="https://github.com/Suraj854204">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=760&lines=Cloud-native+microservices+on+AWS+%2B+Terraform;RAG+pipelines+and+semantic+caching+at+scale;On-device+AI+running+fully+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025+%7C+2%2C000%2B+problems+solved" alt="Typing animation"/>
-</a>
+<b>Cloud-native microservices on AWS</b> &nbsp;·&nbsp; <b>RAG and semantic caching</b> &nbsp;·&nbsp; <b>On-device AI</b> &nbsp;·&nbsp; <b>ICPC 2026 Global Rank 1025</b>
 
 <br/><br/>
 
@@ -276,8 +274,8 @@ Connect a repository and ship with confidence.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true&ring=0891b2&fire=06b6d4&currStreakLabel=0891b2">
-  <img src="https://streak-stats.demolab.com?user=Suraj854204&theme=default&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2" width="75%" alt="Contribution streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true&ring=0891b2&fire=06b6d4&currStreakLabel=0891b2&disable_animations=true">
+  <img src="https://streak-stats.demolab.com?user=Suraj854204&theme=default&hide_border=true&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&disable_animations=true" width="75%" alt="Contribution streak"/>
 </picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj854204&bg_color=0d1117&color=0891b2&line=0891b2&point=ffffff&area=true&area_color=0891b2&hide_border=true" width="100%" alt="Contribution graph"/>
@@ -299,6 +297,6 @@ I'm actively looking for **Software Engineering, Backend and Full-Stack internsh
 
 <sub>Built with care. Open to feedback, collaboration and good problems.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0891b2,55:0b3a6e,100:020617&height=120&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3a6e,100:0b1220&height=60&section=footer" width="100%" alt=""/>
 
 </div>
