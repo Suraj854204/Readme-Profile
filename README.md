@@ -1,141 +1,289 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0aa6c2&height=200&section=header&text=Suraj%20Kumar%20Singh&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Backend-Focused%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Suraj Kumar Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:0891b2,100:0aa6c2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend-Focused%20Full%20Stack%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Suraj Kumar Singh banner"/>
 
 <a href="https://github.com/Suraj854204">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&lines=Event-driven+backend+systems;RAG+pipelines+and+AI+developer+tools;Reliable+APIs%2C+real-time+apps%2C+containerized+delivery" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=760&lines=Cloud-native+microservices+on+AWS+%2B+Terraform;RAG+pipelines+and+semantic+caching+at+scale;On-device+AI+running+fully+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025+%7C+2%2C000%2B+problems+solved" alt="Typing animation"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://leetcode.com/CodeSurajX"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://ai-code-companion-v1-web-app.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
 <img src="https://komarev.com/ghpvc/?username=Suraj854204&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Backend%20%C2%B7%20Full--Stack-0e75b6?style=flat-square" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-0aa6c2?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-2027-0e75b6?style=flat-square" alt="B.Tech CSE 2027"/>
+
 </div>
 
 ---
 
-## About
+## ⚡ At a glance
 
-I build backend-first products that combine event-driven architecture with applied AI. I design reliable APIs, real-time systems and retrieval-augmented generation (RAG) pipelines, and ship them as complete, containerized applications.
+<div align="center">
 
-|  |  |
-|---|---|
-| **Building** | AI developer tools with FastAPI, Gemini, LangChain and RAG |
-| **Learning** | System design and cloud architecture |
-| **Academics** | Ranked among the top 5 students in my college |
-| **Problem solving** | 1800+ problems solved across competitive programming platforms |
-| **Open to** | Backend and full-stack roles, internships, open-source collaboration |
+| 🏆 **ICPC 2026** | 🧠 **Problems solved** | 📊 **Naukri Young Turks** | ☁️ **Production-style infra** | 🔒 **On-device AI** |
+|:---:|:---:|:---:|:---:|:---:|
+| Global Rank **1025** | **2,000+** across 4 platforms | **96.83** percentile | **AWS + Terraform** CI/CD | **Qwen3-4B** on Snapdragon NPU |
+
+</div>
 
 ---
 
-## Featured projects
+## 👋 About me
 
-### Support SaaS: AI-powered customer support platform
+I'm a **software engineer who builds backend-first products** and pairs them with applied AI. I like systems that are reliable under load: clean API contracts, event-driven pipelines, tenant-safe data models, and infrastructure that is reproducible from code.
 
-A multi-service support platform with real-time chat, asynchronous event processing, and AI replies grounded in a knowledge base.
+I've shipped a **5-service microservices job portal**, a **multi-tenant AI support platform on AWS** provisioned entirely with Terraform, and an **on-device AI code reviewer** where no source code ever leaves the machine. Backed by strong DSA and design-pattern fundamentals.
+
+| | |
+|---|---|
+| 🔭 **Building** | Multi-tenant AI platforms: RAG, semantic caching, agent workflows |
+| 🌱 **Learning** | System design, Kubernetes, cloud architecture at scale |
+| 🎓 **Education** | B.Tech CSE, Ambalika Institute of Management and Technology (2023 to 2027) |
+| 💼 **Experience** | Web Development Intern at Labmentix (Next.js, React, Tailwind) |
+| 🎯 **Looking for** | Software Engineering, Backend and Full-Stack **internships** |
+| 🤝 **Open to** | Open-source collaboration and hackathon teams |
+
+---
+
+## 🚀 Featured projects
+
+### 1. Support SaaS: multi-tenant AI support platform
+> `Mar 2026 – Jul 2026` · Architecture-heavy, cloud-native, production-style
+
+A multi-tenant support platform with organization-isolated knowledge bases, real-time chat and RAG-grounded AI replies. A dedicated **Java 21 / Spring Boot semantic cache** reduces LLM calls and latency.
 
 ```mermaid
 flowchart LR
-    C[Customer / Agent<br/>Next.js + TypeScript] -->|WebSocket| RT[Node.js + Socket.IO]
-    RT --> K[(Kafka)]
-    K --> AI[FastAPI AI service]
-    AI --> Q[(Qdrant<br/>vector search)]
-    AI --> G[Gemini + LangChain]
-    RT --> DB[(PostgreSQL + Prisma)]
-    RT --> R[(Redis)]
+    U["Customer / Agent<br/>Next.js + TypeScript"] -->|"REST + WebSocket"| API["Express + TypeScript<br/>JWT / RBAC / multi-tenant"]
+    API --> PG[("PostgreSQL<br/>Prisma")]
+    API --> K{{"Kafka / MSK"}}
+    K --> AI["FastAPI AI service"]
+    AI --> SC["Semantic Cache<br/>Java 21 / Spring Boot"]
+    SC --> RD[("Redis")]
+    AI --> RAG["RAG pipeline<br/>LangChain + LlamaIndex"]
+    RAG --> QD[("Qdrant<br/>org-scoped vectors")]
+    RAG --> GM["Gemini"]
 ```
 
-| Layer | Technologies |
-|---|---|
-| Frontend | Next.js, TypeScript |
-| Backend | Node.js, FastAPI, Socket.IO |
-| Data and messaging | PostgreSQL, Prisma, Redis, Kafka |
-| AI | Gemini, LangChain, Qdrant |
-| Infra | Docker |
+**Semantic cache request path**
 
-### AI Code Companion: GitHub-integrated developer assistant
+```mermaid
+flowchart LR
+    Q["Query"] --> E["Embed"]
+    E --> BF{"Bloom filter<br/>maybe seen?"}
+    BF -->|no| LLM["LLM call"]
+    BF -->|maybe| LSH["Random-hyperplane<br/>LSH bucket"]
+    LSH --> CS{"Cosine similarity<br/>above threshold?"}
+    CS -->|hit| H["Return cached answer<br/>O(1) LRU, TTL eviction"]
+    CS -->|miss| LLM
+    LLM --> S["Store in Redis<br/>+ update metrics"]
+```
 
-Connects to a GitHub repository and helps developers understand and ship code with confidence. [**Live demo**](https://ai-code-companion-v1-web-app.vercel.app/)
+<details>
+<summary><b>📌 Engineering highlights</b></summary>
 
-- **Repository analysis:** structure and codebase understanding
-- **AI code review:** automated review feedback
-- **Security scanner:** surfaces potential vulnerabilities
-- **Deploy readiness:** pre-release checks
+<br/>
 
-### NextHire: AI-powered hiring platform
+- **Architecture:** API-first, domain-driven microservices with JWT/RBAC and strict **tenant isolation** down to the knowledge-base level.
+- **Infrastructure as code:** production AWS stack (**ECS Fargate, RDS, ElastiCache, Elasticsearch/OpenSearch, MSK**) provisioned with **Terraform**, deployed through **GitHub Actions OIDC** (no long-lived cloud keys).
+- **CI quality gate:** automated API and AI-service test suites gate every pull request.
+- **RAG pipeline:** LangChain and LlamaIndex with embeddings, Qdrant and Gemini for org-scoped retrieval.
+- **Semantic cache:** O(1) LRU, Bloom filter, random-hyperplane LSH, cosine similarity, Redis, TTL eviction.
+- **Resilience:** cache-aside graceful fallback and tenant-aware validation.
+- **Observability:** hits, misses, latency, evictions and **LLM requests avoided**.
 
-Automates resume screening and candidate-to-job matching.
-
-- **Resume analysis** and **ATS-style matching**
-- **Kafka** event processing for asynchronous workflows
-- **PostgreSQL** for persistence and **Redis** for caching
-
-[View all repositories](https://github.com/Suraj854204?tab=repositories)
-
----
-
-## Tech stack
+</details>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mongodb,redis,kafka,prisma,docker,git,github&perline=9" alt="Tech stack icons"/>
+`Next.js` · `Express` · `FastAPI` · `Java 21` · `Spring Boot` · `AWS` · `Terraform` · `Redis` · `Qdrant` · `Kafka` · `Gemini`
 
 </div>
 
+<br/>
+
+### 2. CoderX: private on-device AI code review
+> `2026` · Built for the **Snapdragon® Multiverse Hackathon**
+
+An AI code reviewer that runs **Qwen3-4B entirely on a Snapdragon NPU** via GenieX. **Zero source code ever leaves the machine.**
+
+```mermaid
+flowchart LR
+    G["Git post-commit hook<br/>or GitHub PR webhook<br/>HMAC-verified"] --> F["FastAPI backend"]
+    F --> R{"Risk-aware router<br/>per diff hunk"}
+    R -->|trivial| SK["Fast path"]
+    R -->|"standard / critical"| C[("SQLite review cache<br/>normalized diff hash")]
+    C -->|miss| N["Qwen3-4B on<br/>Snapdragon NPU"]
+    N --> W["WebSocket stream"]
+    W --> M["React Native / Expo<br/>triage app"]
+    M --> H["Human-in-the-loop<br/>reiteration"]
+    M --> P["Offline PDF / JSON<br/>audit reports"]
+```
+
+- **Risk-aware routing engine** classifies every diff hunk as critical, standard or trivial *before* it reaches the NPU.
+- **Incremental review cache** keyed on normalized diff hashes skips redundant re-reviews.
+- **Live findings** stream to a mobile triage app with a human-in-the-loop flow and exportable audit reports.
+
+<div align="center">
+
+`Python` · `FastAPI` · `React Native` · `Qwen3-4B` · `Snapdragon NPU` · `GenieX` · `SQLite` · `WebSockets`
+
+</div>
+
+<br/>
+
+### 3. NextHire: AI-powered job portal
+> `Aug 2025 – Nov 2025`
+
+A **5-service microservices platform** (Auth, User, Job, Payment, Utils) with four AI career tools.
+
+```mermaid
+flowchart LR
+    FE["Next.js"] --> GW["Services"]
+    subgraph GW["Microservices"]
+      A["Auth"] 
+      U["User"]
+      J["Job"]
+      P["Payment"]
+      T["Utils"]
+    end
+    A --> RD[("Redis<br/>token revocation")]
+    GW --> K{{"Kafka<br/>async processing"}}
+    GW --> PG[("PostgreSQL<br/>NeonDB")]
+    T --> GM["Gemini API<br/>Resume Builder, Analyzer,<br/>ATS Checker, Career Guidance"]
+```
+
+- JWT authentication with **Redis-backed token revocation**; RBAC across services.
+- **Kafka** for asynchronous workflows; Redis caching for hot paths.
+- Recruiter subscriptions and payments over REST APIs.
+
+<div align="center">
+
+`Next.js` · `Node.js` · `PostgreSQL` · `Redis` · `Kafka` · `Gemini`
+
+</div>
+
+<br/>
+
+### 4. AI Code Companion: GitHub-integrated developer assistant
+> [**▶ Live demo**](https://ai-code-companion-v1-web-app.vercel.app/)
+
+Connect a repository and ship with confidence.
+
+| Capability | What it does |
+|---|---|
+| 🗂️ **Repository analysis** | Understands structure and codebase layout |
+| 🔍 **AI code review** | Automated review feedback |
+| 🛡️ **Security scanner** | Surfaces potential vulnerabilities |
+| ✅ **Deploy readiness** | Pre-release checks |
+
+<div align="center">
+
+[**📂 Browse all repositories →**](https://github.com/Suraj854204?tab=repositories)
+
+</div>
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,cs,react,nextjs,tailwind,nodejs,express,fastapi,dotnet,postgres,mongodb,redis,sqlite,kafka,prisma,elasticsearch,aws,terraform,docker,kubernetes,githubactions,git,github&perline=9" alt="Tech stack icons"/>
+
+</div>
+
+<br/>
+
 | Category | Technologies |
 |---|---|
-| **Languages** | Java, TypeScript, JavaScript, Python, SQL |
-| **Frontend** | React, Next.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js, FastAPI, Socket.IO |
-| **Databases** | PostgreSQL, MongoDB, Redis, Prisma |
-| **Messaging** | Apache Kafka |
-| **AI / ML** | Gemini, LangChain, Qdrant, RAG |
-| **DevOps and tools** | Docker, Git, GitHub |
+| **Languages** | Java, TypeScript, JavaScript, Python, C#, SQL |
+| **Frontend** | React.js, Next.js, React Native, Tailwind CSS, HTML, CSS, responsive and accessible UI |
+| **Backend** | Spring Boot, J2EE / Java EE, .NET, Node.js, Express.js, FastAPI, REST APIs, Microservices, API-first design, JWT, Prisma |
+| **Databases and search** | PostgreSQL, MongoDB, Redis, SQLite, Qdrant, Elasticsearch / OpenSearch |
+| **AI / GenAI** | LangChain, LlamaIndex, RAG, embeddings, Gemini API, Qwen, on-device / edge inference, vector search, AI agents |
+| **Cloud and DevOps** | AWS (ECS Fargate, RDS, ElastiCache, MSK), Terraform, Docker, Kubernetes, GitHub Actions, CI/CD, IaC |
+| **CS fundamentals** | Data structures, algorithms, design patterns, OOP, graphs, dynamic programming, heaps, hashing |
+| **Practices** | Agile / Scrum, code reviews, system design |
 
 ---
 
-## Competitive programming
+## 💼 Experience
 
-| Platform | Achievement |
-|---|---|
-| LeetCode | 1000+ problems solved |
-| GeeksForGeeks | 500+ problems solved |
-| CodeChef | 2★ coder, 500+ problems solved |
-| Codeforces | Rating 1000 |
+**Web Development Intern · Labmentix** `Aug 2025 – Nov 2025 · Remote`
+
+- Built and deployed a **responsive, mobile-first landing page** with reusable Next.js / React components and Tailwind CSS ([grinning.vercel.app](https://grinning.vercel.app)).
+- Implemented layouts, navigation, product sections and CTA flows; handled component development and cross-device testing independently.
+- Took part in Agile sprint ceremonies and peer code reviews.
 
 ---
 
-## GitHub activity
+## 🏆 Competitive programming and achievements
+
+<div align="center">
+
+| 🌐 **Contest / Platform** | 🎖️ **Result** |
+|:---|:---|
+| **ICPC 2026 Online Challenge 1** (powered by Huawei) | Global Rank **1025** |
+| **LeetCode** | Contest Global Rank **874** among 27,000+ participants |
+| **Codeforces** | Rating **1200** |
+| **CodeChef** | DSA Rating **1640** |
+| **Naukri Campus Codequezt #31** | Rank **#441** among 14,000+ participants |
+| **Pardis Technology Olympics 2026** (Tehran) | Rank **#45** of 1,065 in the Algorithm Track qualifier |
+| **Naukri Young Turks 2025** | **96.83 percentile** nationwide |
+| **College hackathon** | 🥉 **3rd place**: Image-Provenance Utility using cryptographic signatures |
+
+</div>
+
+**Community and leadership:** organized coding and technical events with **100 to 200+ participants** as an Unstop Campus Ambassador and event lead. Ranked in the top 10% of my institute for coding and leadership.
+
+---
+
+## 📈 GitHub activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub stats"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=tokyonight&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages"/>
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Suraj854204&theme=tokyonight&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=Suraj854204&theme=default&hide_border=true" width="70%" alt="Contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Suraj854204&theme=default&hide_border=true" width="75%" alt="Contribution streak"/>
 </picture>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suraj854204&bg_color=0d1117&color=0aa6c2&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-## Let's connect
+## 🤝 Let's connect
 
-I'm open to backend and full-stack roles, internships and open-source collaboration.
-
-[surajkumar854000@gmail.com](mailto:surajkumar854000@gmail.com) · [LinkedIn](https://www.linkedin.com/in/suraj-singh-b0962830a) · [Live demo](https://ai-code-companion-v1-web-app.vercel.app/)
+I'm actively looking for **Software Engineering, Backend and Full-Stack internships**. If you're building something with distributed systems, applied AI or developer tooling, I'd love to talk.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6c2,100:0e75b6&height=90&section=footer" width="100%" alt=""/>
+
+<a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email_me-surajkumar854000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<sub>Built with care. Open to feedback, collaboration and good problems.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6c2,50:0891b2,100:0e75b6&height=110&section=footer" width="100%" alt=""/>
+
 </div>
