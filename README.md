@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,50:0891b2,100:0aa6c2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Backend-Focused%20Full%20Stack%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Suraj Kumar Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0b3a6e,100:0891b2&height=260&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Backend-Focused%20Full%20Stack%20%C2%B7%20Applied%20AI&descAlignY=64&descSize=18&descColor=67e8f9&animation=twinkling" width="100%" alt="Suraj Kumar Singh banner"/>
 
 <a href="https://github.com/Suraj854204">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0E75B6&center=true&vCenter=true&width=760&lines=Cloud-native+microservices+on+AWS+%2B+Terraform;RAG+pipelines+and+semantic+caching+at+scale;On-device+AI+running+fully+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025+%7C+2%2C000%2B+problems+solved" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=0891B2&center=true&vCenter=true&width=760&lines=Cloud-native+microservices+on+AWS+%2B+Terraform;RAG+pipelines+and+semantic+caching+at+scale;On-device+AI+running+fully+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025+%7C+2%2C000%2B+problems+solved" alt="Typing animation"/>
 </a>
 
 <br/><br/>
@@ -12,13 +12,14 @@
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/CodeSurajX"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://ai-code-companion-v1-web-app.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
-<img src="https://komarev.com/ghpvc/?username=Suraj854204&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Suraj854204?style=for-the-badge&logo=github&label=Followers&color=0891b2&labelColor=0f172a" alt="GitHub followers"/>
+<img src="https://hits.sh/github.com/Suraj854204.svg?style=for-the-badge&label=Profile%20Views&color=0891b2&labelColor=0f172a" alt="Profile views"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Backend%20%C2%B7%20Full--Stack-0e75b6?style=flat-square" alt="Open to work"/>
-<img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-0aa6c2?style=flat-square" alt="Location"/>
-<img src="https://img.shields.io/badge/B.Tech%20CSE-2027-0e75b6?style=flat-square" alt="B.Tech CSE 2027"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Backend%20%C2%B7%20Full--Stack-0891b2?style=flat-square&labelColor=0f172a" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-0b3a6e?style=flat-square&labelColor=0f172a" alt="Location"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-2027-0891b2?style=flat-square&labelColor=0f172a" alt="B.Tech CSE 2027"/>
 
 </div>
 
@@ -284,6 +285,6 @@ I'm actively looking for **Software Engineering, Backend and Full-Stack internsh
 
 <sub>Built with care. Open to feedback, collaboration and good problems.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6c2,50:0891b2,100:0e75b6&height=110&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0891b2,55:0b3a6e,100:020617&height=120&section=footer" width="100%" alt=""/>
 
 </div>
