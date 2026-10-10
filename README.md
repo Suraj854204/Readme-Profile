@@ -115,7 +115,13 @@ Noida · Bengaluru · Gurugram · Pune · Hyderabad (also open to Ghaziabad and 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Suraj854204&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
+<img src="https://img.shields.io/badge/🏆_ICPC_2026-Global_Rank_1025-0891b2?style=for-the-badge&labelColor=0f172a" alt="ICPC"/>
+<img src="https://img.shields.io/badge/📈_LeetCode-Contest_Rank_874-FFA116?style=for-the-badge&labelColor=0f172a" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/🧠_Solved-2000%2B_Problems-22c55e?style=for-the-badge&labelColor=0f172a" alt="Solved"/>
+<img src="https://img.shields.io/badge/📊_Naukri_Young_Turks-96.83_Percentile-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Naukri"/>
+<img src="https://img.shields.io/badge/🥉_Hackathon-3rd_Place-f59e0b?style=for-the-badge&labelColor=0f172a" alt="Hackathon"/>
+<img src="https://img.shields.io/badge/CodeChef-1640-5b4638?style=for-the-badge&labelColor=0f172a" alt="CodeChef"/>
+<img src="https://img.shields.io/badge/Codeforces-1200-1f8acb?style=for-the-badge&labelColor=0f172a" alt="Codeforces"/>
 
 </div>
 
