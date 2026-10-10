@@ -4,7 +4,7 @@
 
 <b>Cloud-native microservices on AWS</b> &nbsp;·&nbsp; <b>RAG and semantic caching</b> &nbsp;·&nbsp; <b>On-device AI</b> &nbsp;·&nbsp; <b>ICPC 2026 Global Rank 1025</b>
 
-<br/><br/>
+<br/> <br/>
 
 <a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
