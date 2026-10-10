@@ -1,45 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:0b3a6e&height=190&section=header&text=Suraj%20Kumar%20Singh&fontSize=46&fontColor=f8fafc&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Backend-Focused%20Full%20Stack%20%C2%B7%20Applied%20AI&descAlignY=68&descSize=17&descColor=93c5fd" width="100%" alt="Suraj Kumar Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b3a6e,100:0891b2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=18&descColor=bae6fd" width="100%" alt="Suraj Kumar Singh banner"/>
 
-<b>Cloud-native microservices on AWS</b> &nbsp;·&nbsp; <b>RAG and semantic caching</b> &nbsp;·&nbsp; <b>On-device AI</b> &nbsp;·&nbsp; <b>ICPC 2026 Global Rank 1025</b>
+<a href="https://github.com/Suraj854204">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Building+multi-tenant+AI+platforms+on+AWS;RAG+%C2%B7+Semantic+Caching+%C2%B7+Kafka+%C2%B7+Terraform;Running+Qwen3-4B+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025;Open+to+SWE+%C2%B7+Backend+%C2%B7+Full-Stack+internships" alt="Typing animation"/>
+</a>
 
-<br/> <br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://leetcode.com/CodeSurajX"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://ai-code-companion-v1-web-app.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo"/></a>
-<img src="https://img.shields.io/github/followers/Suraj854204?style=for-the-badge&logo=github&label=Followers&color=0891b2&labelColor=0f172a" alt="GitHub followers"/>
-<img src="https://hits.sh/github.com/Suraj854204.svg?style=for-the-badge&label=Profile%20Views&color=0891b2&labelColor=0f172a" alt="Profile views"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%C2%B7%20Backend%20%C2%B7%20Full--Stack-0891b2?style=flat-square&labelColor=0f172a" alt="Open to work"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-22c55e?style=flat-square&labelColor=0f172a" alt="Status"/>
 <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-0b3a6e?style=flat-square&labelColor=0f172a" alt="Location"/>
+<img src="https://img.shields.io/badge/Open%20to-Noida%20%C2%B7%20Gurugram%20%C2%B7%20Ghaziabad%20%C2%B7%20Remote-0891b2?style=flat-square&labelColor=0f172a" alt="Preferred locations"/>
 <img src="https://img.shields.io/badge/B.Tech%20CSE-2027-0891b2?style=flat-square&labelColor=0f172a" alt="B.Tech CSE 2027"/>
+<img src="https://img.shields.io/github/followers/Suraj854204?style=flat-square&logo=github&label=Followers&color=0891b2&labelColor=0f172a" alt="Followers"/>
+<img src="https://hits.sh/github.com/Suraj854204.svg?style=flat-square&label=Profile%20Views&color=0891b2&labelColor=0f172a" alt="Profile views"/>
 
 </div>
 
 ---
 
-## ⚡ At a glance
+## 🧭 Recruiter TL;DR (30 seconds)
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**What I do**
+Backend-first engineer who ships end to end: API design, event-driven pipelines, tenant-safe data models, cloud infra as code, and applied AI (RAG, caching, on-device inference).
+
+**What I've shipped**
+- Multi-tenant AI support platform on AWS, fully Terraform-provisioned
+- 5-service microservices job portal with Kafka and Redis
+- On-device AI code reviewer, zero source code leaves the machine
+
+</td>
+<td width="50%" valign="top">
+
+**Proof**
+- 🏆 ICPC 2026 Online Challenge 1: Global Rank **1025**
+- 🧠 **2,000+** problems solved across 4 platforms
+- 📈 LeetCode contest rank **874** of 27,000+
+- 📊 Naukri Young Turks: **96.83** percentile
+- 🥉 College hackathon: **3rd place**
+
+**Looking for**
+SWE, Backend and Full-Stack internships at startup-level teams.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| 🏆 **ICPC 2026** | 🧠 **Problems solved** | 📊 **Naukri Young Turks** | ☁️ **Production-style infra** | 🔒 **On-device AI** |
-|:---:|:---:|:---:|:---:|:---:|
-| Global Rank **1025** | **2,000+** across 4 platforms | **96.83** percentile | **AWS + Terraform** CI/CD | **Qwen3-4B** on Snapdragon NPU |
+[**📬 Email me**](mailto:surajkumar854000@gmail.com) &nbsp;·&nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/suraj-singh-b0962830a) &nbsp;·&nbsp; [**🚀 Live demo**](https://ai-code-companion-v1-web-app.vercel.app/) &nbsp;·&nbsp; [**📂 All repositories**](https://github.com/Suraj854204?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 About me
+## 🎛️ Command center
 
-I'm a **software engineer who builds backend-first products** and pairs them with applied AI. I like systems that are reliable under load: clean API contracts, event-driven pipelines, tenant-safe data models, and infrastructure that is reproducible from code.
+<div align="center">
 
-I've shipped a **5-service microservices job portal**, a **multi-tenant AI support platform on AWS** provisioned entirely with Terraform, and an **on-device AI code reviewer** where no source code ever leaves the machine. Backed by strong DSA and design-pattern fundamentals.
+| 🏆 **ICPC 2026** | 🧠 **Problems solved** | 📊 **Naukri Young Turks** | ☁️ **Infra** | 🔒 **On-device AI** |
+|:---:|:---:|:---:|:---:|:---:|
+| Global Rank **1025** | **2,000+** on 4 platforms | **96.83** percentile | **AWS + Terraform** CI/CD | **Qwen3-4B** on Snapdragon NPU |
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117">
+  <img src="https://github-readme-stats.vercel.app/api?username=Suraj854204&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj854204&layout=compact&theme=default&hide_border=true&langs_count=8" width="49%" alt="Top languages"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/CodeSurajX?theme=dark&font=JetBrains%20Mono&ext=heatmap">
+  <img src="https://leetcard.jacoblin.cool/CodeSurajX?theme=light&font=JetBrains%20Mono&ext=heatmap" width="75%" alt="LeetCode stats"/>
+</picture>
+
+</div>
+
+### 🏟️ Competitive programming scoreboard
+
+<div align="center">
+
+| 🌐 Contest / Platform | 🎖️ Result |
+|:---|:---|
+| **ICPC 2026 Online Challenge 1** (powered by Huawei) | Global Rank **1025** |
+| **LeetCode** | Contest Global Rank **874** among 27,000+ participants |
+| **Codeforces** | Rating **1200** |
+| **CodeChef** | DSA Rating **1640** |
+| **Naukri Campus Codequezt #31** | Rank **#441** among 14,000+ participants |
+| **Pardis Technology Olympics 2026** (Tehran) | Rank **#45** of 1,065 in the Algorithm Track qualifier |
+| **Naukri Young Turks 2025** | **96.83 percentile** nationwide |
+| **College hackathon** | 🥉 **3rd place**: Image-Provenance Utility using cryptographic signatures |
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Suraj854204&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## 👨‍💻 About me
+
+I'm a **software engineer who builds backend-first products** and pairs them with applied AI. I like systems that stay reliable under load: clean API contracts, event-driven pipelines, tenant-safe data models, and infrastructure that is reproducible from code.
 
 | | |
 |---|---|
@@ -50,9 +131,43 @@ I've shipped a **5-service microservices job portal**, a **multi-tenant AI suppo
 | 🎯 **Looking for** | Software Engineering, Backend and Full-Stack **internships** |
 | 🤝 **Open to** | Open-source collaboration and hackathon teams |
 
+### 🧩 How I engineer
+
+```mermaid
+mindmap
+  root((Suraj))
+    Reliability
+      Idempotent consumers
+      Graceful fallbacks
+      Tenant isolation
+    Reproducibility
+      Terraform IaC
+      CI quality gates
+      OIDC deploys
+    Performance
+      Semantic caching
+      Async with Kafka
+      Redis hot paths
+    Privacy
+      On-device inference
+      Org-scoped vectors
+      Zero data egress
+```
+
 ---
 
 ## 🚀 Featured projects
+
+<div align="center">
+
+| # | Project | Domain | Core stack | Highlight |
+|:-:|:--|:--|:--|:--|
+| 1 | [**Support SaaS**](https://github.com/Suraj854204?tab=repositories) | Multi-tenant AI support | Next.js, Express, FastAPI, Java 21, AWS, Terraform | Semantic cache cuts LLM calls |
+| 2 | [**CoderX**](https://github.com/Suraj854204?tab=repositories) | On-device AI code review | Python, FastAPI, React Native, Qwen3-4B | Zero code leaves the machine |
+| 3 | [**NextHire**](https://github.com/Suraj854204?tab=repositories) | AI job portal | Next.js, Node, Kafka, Redis, PostgreSQL | 5 microservices + 4 AI tools |
+| 4 | [**AI Code Companion**](https://ai-code-companion-v1-web-app.vercel.app/) | Developer assistant | GitHub integration, AI review | Live demo |
+
+</div>
 
 ### 1. Support SaaS: multi-tenant AI support platform
 > `Mar 2026 – Jul 2026` · Architecture-heavy, cloud-native, production-style
@@ -84,6 +199,17 @@ flowchart LR
     CS -->|hit| H["Return cached answer<br/>O(1) LRU, TTL eviction"]
     CS -->|miss| LLM
     LLM --> S["Store in Redis<br/>+ update metrics"]
+```
+
+**Deployment pipeline**
+
+```mermaid
+flowchart LR
+    PR["Pull request"] --> T["API + AI service<br/>test suites"]
+    T -->|pass| M["Merge to main"]
+    M --> OIDC["GitHub Actions<br/>OIDC, no long-lived keys"]
+    OIDC --> TF["Terraform apply"]
+    TF --> AWS["ECS Fargate · RDS · ElastiCache<br/>OpenSearch · MSK"]
 ```
 
 <details>
@@ -142,22 +268,20 @@ flowchart LR
 ### 3. NextHire: AI-powered job portal
 > `Aug 2025 – Nov 2025`
 
-A **5-service microservices platform** (Auth, User, Job, Payment, Utils) with four AI career tools.
+A **5-service microservices platform** (Auth, User, Job, Payment, Utils) with four AI career tools: Resume Builder, Resume Analyzer, ATS Checker and Career Guidance.
 
 ```mermaid
 flowchart LR
-    FE["Next.js"] --> GW["Services"]
-    subgraph GW["Microservices"]
-      A["Auth"] 
-      U["User"]
-      J["Job"]
-      P["Payment"]
-      T["Utils"]
-    end
+    FE["Next.js"] --> A["Auth"]
+    FE --> U["User"]
+    FE --> J["Job"]
+    FE --> P["Payment"]
+    FE --> T["Utils"]
     A --> RD[("Redis<br/>token revocation")]
-    GW --> K{{"Kafka<br/>async processing"}}
-    GW --> PG[("PostgreSQL<br/>NeonDB")]
-    T --> GM["Gemini API<br/>Resume Builder, Analyzer,<br/>ATS Checker, Career Guidance"]
+    J --> K{{"Kafka<br/>async processing"}}
+    U --> PG[("PostgreSQL<br/>NeonDB")]
+    J --> PG
+    T --> GM["Gemini API"]
 ```
 
 - JWT authentication with **Redis-backed token revocation**; RBAC across services.
@@ -213,6 +337,29 @@ Connect a repository and ship with confidence.
 | **CS fundamentals** | Data structures, algorithms, design patterns, OOP, graphs, dynamic programming, heaps, hashing |
 | **Practices** | Agile / Scrum, code reviews, system design |
 
+### 🗺️ Where I'm strongest
+
+```mermaid
+quadrantChart
+    title Skill map (depth vs. how often I use it)
+    x-axis Occasionally --> Daily
+    y-axis Learning --> Strong
+    quadrant-1 Core strengths
+    quadrant-2 Deep, used on demand
+    quadrant-3 Growing
+    quadrant-4 Daily drivers
+    TypeScript: [0.88, 0.82]
+    Node and Express: [0.85, 0.80]
+    PostgreSQL: [0.72, 0.74]
+    Redis: [0.66, 0.72]
+    Kafka: [0.50, 0.66]
+    Terraform: [0.45, 0.68]
+    FastAPI: [0.62, 0.70]
+    Java and Spring: [0.55, 0.72]
+    Kubernetes: [0.22, 0.38]
+    System design: [0.35, 0.45]
+```
+
 ---
 
 ## 💼 Experience
@@ -223,30 +370,26 @@ Connect a repository and ship with confidence.
 - Implemented layouts, navigation, product sections and CTA flows; handled component development and cross-device testing independently.
 - Took part in Agile sprint ceremonies and peer code reviews.
 
----
-
-## 🏆 Competitive programming and achievements
-
-<div align="center">
-
-| 🌐 **Contest / Platform** | 🎖️ **Result** |
-|:---|:---|
-| **ICPC 2026 Online Challenge 1** (powered by Huawei) | Global Rank **1025** |
-| **LeetCode** | Contest Global Rank **874** among 27,000+ participants |
-| **Codeforces** | Rating **1200** |
-| **CodeChef** | DSA Rating **1640** |
-| **Naukri Campus Codequezt #31** | Rank **#441** among 14,000+ participants |
-| **Pardis Technology Olympics 2026** (Tehran) | Rank **#45** of 1,065 in the Algorithm Track qualifier |
-| **Naukri Young Turks 2025** | **96.83 percentile** nationwide |
-| **College hackathon** | 🥉 **3rd place**: Image-Provenance Utility using cryptographic signatures |
-
-</div>
-
 **Community and leadership:** organized coding and technical events with **100 to 200+ participants** as an Unstop Campus Ambassador and event lead. Ranked in the top 10% of my institute for coding and leadership.
 
+### 🛤️ Timeline
+
+```mermaid
+timeline
+    title Build log
+    2023 : Started B.Tech CSE
+    2025 : Labmentix web intern
+         : NextHire microservices portal
+         : Naukri Young Turks 96.83 percentile
+    2026 : Support SaaS on AWS with Terraform
+         : CoderX at Snapdragon hackathon
+         : ICPC Online Challenge Global Rank 1025
+    2027 : B.Tech graduation
+```
+
 ---
 
-## 📈 GitHub analytics
+## 📈 Activity dashboard
 
 <div align="center">
 
@@ -282,6 +425,74 @@ Connect a repository and ship with confidence.
 
 </div>
 
+### 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suraj854204/Suraj854204/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suraj854204/Suraj854204/output/github-snake.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Suraj854204/Suraj854204/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🎯 Currently
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🔨 Now**
+- Hardening Support SaaS (observability, load behaviour)
+- Sharpening DSA for contests
+- Applying to startup-level SWE / backend internships
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Next**
+- Kubernetes hands-on
+- System design deep dives
+- More open-source contributions
+
+</td>
+<td width="33%" valign="top">
+
+**🤝 Let's collaborate on**
+- Distributed systems
+- Applied AI and RAG
+- Developer tooling
+- Hackathon teams
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💬 Quick FAQ
+
+<details>
+<summary><b>What kind of role am I best suited for?</b></summary>
+<br/>
+Backend or full-stack internships where I own APIs, data models and deployment, ideally with some AI or infrastructure work.
+</details>
+
+<details>
+<summary><b>Which project best shows my engineering depth?</b></summary>
+<br/>
+Support SaaS: tenant isolation, Kafka-driven AI pipeline, a custom semantic cache, and a Terraform-provisioned AWS stack deployed through OIDC-based CI.
+</details>
+
+<details>
+<summary><b>How do I prefer to be contacted?</b></summary>
+<br/>
+Email or LinkedIn. Both are linked below.
+</details>
+
 ---
 
 ## 🤝 Let's connect
@@ -292,11 +503,12 @@ I'm actively looking for **Software Engineering, Backend and Full-Stack internsh
 
 <a href="mailto:surajkumar854000@gmail.com"><img src="https://img.shields.io/badge/Email_me-surajkumar854000%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/suraj-singh-b0962830a"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/CodeSurajX"><img src="https://img.shields.io/badge/Challenge_me_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 
 <br/><br/>
 
 <sub>Built with care. Open to feedback, collaboration and good problems.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b3a6e,100:0b1220&height=60&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:0b3a6e,100:020617&height=110&section=footer" width="100%" alt=""/>
 
 </div>
