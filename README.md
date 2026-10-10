@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b3a6e,100:0891b2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=18&descColor=bae6fd" width="100%" alt="Suraj Kumar Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b3a6e,100:0891b2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI%20%C2%B7%20Entry-Level%20%26%20Internships&descAlignY=60&descSize=17&descColor=bae6fd" width="100%" alt="Suraj Kumar Singh banner"/>
 
 <a href="https://github.com/Suraj854204">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&height=50&lines=Building+multi-tenant+AI+platforms+on+AWS;RAG+%C2%B7+Semantic+Caching+%C2%B7+Kafka+%C2%B7+Terraform;Running+Qwen3-4B+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025;Open+to+SWE+%C2%B7+Backend+%C2%B7+Full-Stack+internships" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=860&height=50&lines=Building+multi-tenant+AI+platforms+on+AWS;RAG+%C2%B7+Semantic+Caching+%C2%B7+Kafka+%C2%B7+Terraform;Running+Qwen3-4B+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025;Open+to+entry-level+SWE+%C2%B7+Backend+%C2%B7+Full-Stack+roles+%26+internships;Noida+%C2%B7+Bengaluru+%C2%B7+Gurugram+%C2%B7+Pune+%C2%B7+Hyderabad+%C2%B7+Remote" alt="Typing animation"/>
 </a>
 
 <br/>
@@ -15,9 +15,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20INTERNSHIPS-22c55e?style=flat-square&labelColor=0f172a" alt="Status"/>
-<img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-0b3a6e?style=flat-square&labelColor=0f172a" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-Noida%20%C2%B7%20Gurugram%20%C2%B7%20Ghaziabad%20%C2%B7%20Remote-0891b2?style=flat-square&labelColor=0f172a" alt="Preferred locations"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20ENTRY--LEVEL%20%26%20INTERNSHIPS-22c55e?style=flat-square&labelColor=0f172a" alt="Status"/>
+<img src="https://img.shields.io/badge/Based%20in-Lucknow%2C%20India-0b3a6e?style=flat-square&labelColor=0f172a" alt="Location"/>
+<img src="https://img.shields.io/badge/Open%20to-Noida%20%C2%B7%20Bengaluru%20%C2%B7%20Gurugram%20%C2%B7%20Pune%20%C2%B7%20Hyderabad%20%C2%B7%20Remote-0891b2?style=flat-square&labelColor=0f172a" alt="Preferred locations"/>
 <img src="https://img.shields.io/badge/B.Tech%20CSE-2027-0891b2?style=flat-square&labelColor=0f172a" alt="B.Tech CSE 2027"/>
 <img src="https://img.shields.io/github/followers/Suraj854204?style=flat-square&logo=github&label=Followers&color=0891b2&labelColor=0f172a" alt="Followers"/>
 <img src="https://hits.sh/github.com/Suraj854204.svg?style=flat-square&label=Profile%20Views&color=0891b2&labelColor=0f172a" alt="Profile views"/>
@@ -51,7 +51,10 @@ Backend-first engineer who ships end to end: API design, event-driven pipelines,
 - 🥉 College hackathon: **3rd place**
 
 **Looking for**
-SWE, Backend and Full-Stack internships at startup-level teams.
+Entry-level SWE, Backend and Full-Stack roles, plus internships, at startup-level and product teams. Graduating **2027**.
+
+**Preferred cities**
+Noida · Bengaluru · Gurugram · Pune · Hyderabad (also open to Ghaziabad and Remote)
 
 </td>
 </tr>
@@ -128,7 +131,8 @@ I'm a **software engineer who builds backend-first products** and pairs them wit
 | 🌱 **Learning** | System design, Kubernetes, cloud architecture at scale |
 | 🎓 **Education** | B.Tech CSE, Ambalika Institute of Management and Technology (2023 to 2027) |
 | 💼 **Experience** | Web Development Intern at Labmentix (Next.js, React, Tailwind) |
-| 🎯 **Looking for** | Software Engineering, Backend and Full-Stack **internships** |
+| 🎯 **Looking for** | **Entry-level** Software Engineering, Backend and Full-Stack roles, and **internships** |
+| 📍 **Preferred cities** | **Noida, Bengaluru, Gurugram, Pune, Hyderabad** (also Ghaziabad and Remote) |
 | 🤝 **Open to** | Open-source collaboration and hackathon teams |
 
 ### 🧩 How I engineer
@@ -385,6 +389,7 @@ timeline
          : CoderX at Snapdragon hackathon
          : ICPC Online Challenge Global Rank 1025
     2027 : B.Tech graduation
+         : Joining as an entry-level engineer
 ```
 
 ---
@@ -448,7 +453,7 @@ timeline
 **🔨 Now**
 - Hardening Support SaaS (observability, load behaviour)
 - Sharpening DSA for contests
-- Applying to startup-level SWE / backend internships
+- Applying to entry-level SWE / backend roles and internships in Noida, Bengaluru, Gurugram, Pune and Hyderabad
 
 </td>
 <td width="33%" valign="top">
@@ -473,12 +478,43 @@ timeline
 
 ---
 
+## 📍 Where I want to work
+
+<div align="center">
+
+| 🏙️ City | Why it fits |
+|:---|:---|
+| **Bengaluru** | Largest product and startup ecosystem; strong backend, cloud and AI teams |
+| **Hyderabad** | Big engineering centres for product companies and cloud / platform teams |
+| **Pune** | Strong product, SaaS and engineering-services scene |
+| **Noida** | Close to home, dense mix of product companies, startups and global tech centres |
+| **Gurugram** | Product, fintech and consulting-driven tech teams |
+| 🌐 **Remote** | Open to remote-first teams; Ghaziabad also fine |
+
+</div>
+
+**Roles I'm targeting:** Software Engineer (entry-level / SDE-1), Backend Engineer, Full-Stack Engineer, Cloud / Platform Engineer (junior), and Applied AI / GenAI Engineer (junior). **Internships:** SWE, Backend, Full-Stack and AI intern roles, with a path to a full-time offer.
+
+---
+
 ## 💬 Quick FAQ
 
 <details>
 <summary><b>What kind of role am I best suited for?</b></summary>
 <br/>
-Backend or full-stack internships where I own APIs, data models and deployment, ideally with some AI or infrastructure work.
+Entry-level backend or full-stack roles (and internships) where I own APIs, data models and deployment, ideally with some AI or infrastructure work.
+</details>
+
+<details>
+<summary><b>Which cities am I open to?</b></summary>
+<br/>
+Noida, Bengaluru, Gurugram, Pune and Hyderabad are my top choices. I'm also open to Ghaziabad and remote roles. I'm currently based in Lucknow.
+</details>
+
+<details>
+<summary><b>When can I start?</b></summary>
+<br/>
+Available for internships now, and for full-time entry-level roles after graduating in 2027.
 </details>
 
 <details>
@@ -497,7 +533,7 @@ Email or LinkedIn. Both are linked below.
 
 ## 🤝 Let's connect
 
-I'm actively looking for **Software Engineering, Backend and Full-Stack internships**. If you're building something with distributed systems, applied AI or developer tooling, I'd love to talk.
+I'm actively looking for **entry-level Software Engineering, Backend and Full-Stack roles, and internships** in **Noida, Bengaluru, Gurugram, Pune and Hyderabad** (or remote). If you're building something with distributed systems, applied AI or developer tooling, I'd love to talk.
 
 <div align="center">
 
