@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b3a6e,100:0891b2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI%20%C2%B7%20Entry-Level%20%26%20Internships&descAlignY=60&descSize=17&descColor=bae6fd" width="100%" alt="Suraj Kumar Singh banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0b3a6e,100:0891b2&height=230&section=header&text=Suraj%20Kumar%20Singh&fontSize=52&fontColor=f8fafc&fontAlignY=38&animation=fadeIn&desc=Backend-Focused%20Software%20Engineer%20%C2%B7%20Cloud%20%C2%B7%20Applied%20AI&descAlignY=60&descSize=18&descColor=bae6fd" width="100%" alt="Suraj Kumar Singh banner"/>
 
 <a href="https://github.com/Suraj854204">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1100&color=38BDF8&center=true&vCenter=true&width=860&height=50&lines=Building+multi-tenant+AI+platforms+on+AWS;RAG+%C2%B7+Semantic+Caching+%C2%B7+Kafka+%C2%B7+Terraform;Running+Qwen3-4B+on+a+Snapdragon+NPU;ICPC+2026+Global+Rank+1025;Open+to+entry-level+SWE+%C2%B7+Backend+%C2%B7+Full-Stack+roles+%26+internships;Noida+%C2%B7+Bengaluru+%C2%B7+Gurugram+%C2%B7+Pune+%C2%B7+Hyderabad+%C2%B7+Remote" alt="Typing animation"/>
